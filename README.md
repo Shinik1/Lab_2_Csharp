@@ -19,7 +19,7 @@
 
 
 Поля класса:
-private string FirstName - личное имя
+private string FirstName - имя
 private string MiddleName - отчество
 private string LastName - фамилия
 
